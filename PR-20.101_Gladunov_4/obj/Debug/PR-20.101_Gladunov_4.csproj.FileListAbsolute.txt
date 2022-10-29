@@ -1,0 +1,15 @@
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\bin\Debug\PR-20.101_Gladunov_4.exe.config
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\bin\Debug\PR-20.101_Gladunov_4.exe
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\bin\Debug\PR-20.101_Gladunov_4.pdb
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\obj\Debug\PR-20.101_Gladunov_4.csproj.AssemblyReference.cache
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\obj\Debug\MainWindow.g.cs
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\obj\Debug\App.g.cs
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\obj\Debug\PR-20.101_Gladunov_4_MarkupCompile.cache
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\obj\Debug\PR-20.101_Gladunov_4_MarkupCompile.lref
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\obj\Debug\MainWindow.baml
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\obj\Debug\PR-20.101_Gladunov_4.g.resources
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\obj\Debug\PR_20._101_Gladunov_4.Properties.Resources.resources
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\obj\Debug\PR-20.101_Gladunov_4.csproj.GenerateResource.cache
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\obj\Debug\PR-20.101_Gladunov_4.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\obj\Debug\PR-20.101_Gladunov_4.exe
+C:\Users\Сергей\source\repos\PR-20.101_Gladunov_4\obj\Debug\PR-20.101_Gladunov_4.pdb
